@@ -17,15 +17,15 @@
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "7751790092:AAHscmb1_huJH1loDdjxAf8zWtQB28wbIQ0"
         },
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": ""
+            "value": "5829969681"
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
-            "value": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
+            "value": "https://i.ibb.co/pjtSG6p7/51111727.png",
             "required": false
         },
         "FFMPEG": {
